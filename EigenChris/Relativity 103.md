@@ -1,4 +1,7 @@
+# Relativity 103: Galilean Relativity 
 
+
+The "Relativity 103" series, encompassing the intricacies of Galilean relativity, space-time diagrams, the Galilean transform, the Euclidean metric tensor, and the limitations of Galilean relativity, sets the stage for the transition to special relativity by illustrating the consistent laws of motion across inertial frames, the relative perception of position and time, and the challenges posed by electromagnetism and the invariant speed of light, ultimately leading to a profound shift in the understanding of time, velocity, and the laws of motion through Lorentz transformations.
 
 
 

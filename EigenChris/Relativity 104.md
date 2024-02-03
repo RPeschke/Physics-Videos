@@ -1,3 +1,8 @@
+# Relativity 104: Special Relativity
+
+The "Relativity 104" series explores the fundamentals and implications of special relativity through Lorentz transformations, illustrating the impact on time dilation, length contraction, and velocity addition, and introduces the Minkowski metric and space-time interval for measuring distances in space-time, culminating in a discussion on relativistic dynamics, the significance of four-vectors, and the derivation of $E=mc^2$, offering a profound understanding of how energy, momentum, and forces behave in a relativistic framework.
+
+
 
 ## Relativity 104a: Special Relativity - Lorentz Transformation Geometry (no equations)
 

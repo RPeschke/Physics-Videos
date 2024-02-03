@@ -1,3 +1,9 @@
+# Relativity 101: Introduction 
+
+The video series provides an in-depth exploration of relativity, starting with Galilean relativity's application to everyday velocities and evolving to special relativity's implications at near-light speeds, fundamentally changing our understanding of time, space, and gravity through historical development, mathematical principles, and empirical verification.
+
+
+
 ## Relativity 101a: Introduction to Galilean Relativity
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bEtBncTEc6k/0.jpg)](https://www.youtube.com/watch?v=bEtBncTEc6k)
