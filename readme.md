@@ -39,3 +39,10 @@ The series of videos covers the intricacies of acceleration in both special and 
 ## Spinors for Beginners
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j5soqexrwqY/0.jpg)](EigenChris/Spinors.md)
+
+
+## Braintruffle
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dhYqflvJMXc/0.jpg)](braintruffle/playlist.md)
+
+The video series "Braintruffle" comprehensively explores fluid dynamics and spaceflight, starting from molecular interactions and quantum mechanics to macroscopic fluid behaviors and the complexities of interplanetary travel, using simulations and mathematical models to elucidate concepts such as lift, drag, energy dissipation, and gravitational assists.
