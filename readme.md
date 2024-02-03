@@ -23,6 +23,13 @@ The "Relativity 102" series elucidates the mathematical backbone of relativity t
 The "Relativity 103" series, encompassing the intricacies of Galilean relativity, space-time diagrams, the Galilean transform, the Euclidean metric tensor, and the limitations of Galilean relativity, sets the stage for the transition to special relativity by illustrating the consistent laws of motion across inertial frames, the relative perception of position and time, and the challenges posed by electromagnetism and the invariant speed of light, ultimately leading to a profound shift in the understanding of time, velocity, and the laws of motion through Lorentz transformations.
 
 
+## Relativity 104
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5bSy18w8Dh0/0.jpg)](EigenChris/Relativity%20104.md)
+
+The "Relativity 104" series explores the fundamentals and implications of special relativity through Lorentz transformations, illustrating the impact on time dilation, length contraction, and velocity addition, and introduces the Minkowski metric and space-time interval for measuring distances in space-time, culminating in a discussion on relativistic dynamics, the significance of four-vectors, and the derivation of $E=mc^2$, offering a profound understanding of how energy, momentum, and forces behave in a relativistic framework.
+
+
 
 ## Spinors for Beginners
 
