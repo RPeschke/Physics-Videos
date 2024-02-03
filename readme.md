@@ -42,7 +42,7 @@ The series of videos covers the intricacies of acceleration in both special and 
 
 ## Stanford
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pyX8kQ-JzHI/0.jpg)](Stanford/Leonard%20Susskind%20-%20Modern%20Physics%20-%20Classical%20Mechanics)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pyX8kQ-JzHI/0.jpg)](Stanford/Leonard%20Susskind%20-%20Modern%20Physics%20-%20Classical%20Mechanics.md)
 
 
 ## Braintruffle
@@ -50,3 +50,8 @@ The series of videos covers the intricacies of acceleration in both special and 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dhYqflvJMXc/0.jpg)](braintruffle/playlist.md)
 
 The video series "Braintruffle" comprehensively explores fluid dynamics and spaceflight, starting from molecular interactions and quantum mechanics to macroscopic fluid behaviors and the complexities of interplanetary travel, using simulations and mathematical models to elucidate concepts such as lift, drag, energy dissipation, and gravitational assists.
+
+
+## ViaScience
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bWi1bNQyTjg/0.jpg)](ViaScience/Thermodynamics.md)
