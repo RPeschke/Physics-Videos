@@ -40,6 +40,10 @@ The series of videos covers the intricacies of acceleration in both special and 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j5soqexrwqY/0.jpg)](EigenChris/Spinors.md)
 
+## Stanford
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pyX8kQ-JzHI/0.jpg)](Stanford/Leonard%20Susskind%20-%20Modern%20Physics%20-%20Classical%20Mechanics)
+
 
 ## Braintruffle
 
