@@ -67,7 +67,7 @@ The video series "Braintruffle" comprehensively explores fluid dynamics and spac
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0OQ7BhlfAJY/0.jpg)](ZAP%20Physics/playlist.md)
 
 
+
 ## CPPCON
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fX2W3nNjJIo/0.jpg)](cppcon\CppCon%202017.md)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fX2W3nNjJIo/0.jpg)](cppcon/CppCon%202017.md)
