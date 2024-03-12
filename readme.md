@@ -47,3 +47,8 @@ The video series "Braintruffle" comprehensively explores fluid dynamics and spac
 ## Bivector
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pq9YfdPHhIo/0.jpg)](Bivector/playlist.md)
+
+
+## Richard Behiel
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RcyfarXgJaU/0.jpg)](Richard%20Behiel/playlist.md)
